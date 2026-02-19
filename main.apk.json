@@ -4,14 +4,12 @@
     "payment_url": "aHR0cHM6Ly9teS5wYXltZW50LmRleHRlci5pdC5jb20vYXBpL3JuLw==",
     "ezcash_number": "MDc2Nzc5OTU0OA==",
     "whatsapp_number": "OTQ3ODk5NTgyMjU=",
-    "latest_version": "1.0.5",
-    "update_url": "https://example.com/dexter-update.apk",
-    "maintenance_message": "System under maintenance. Please try again later.",
-    "announcement": "Welcome to Dexter Auto Save! 🤍",
-    "blocked_devices": [],
-    "premium_features": {
-        "max_contacts": 1000,
-        "auto_backup": true,
-        "cloud_sync": true
-    }
+    "pro_price": 1000,
+    "pro_features": {
+        "unlimited_saves": true,
+        "auto_reply": true,
+        "auto_resave": true,
+        "real_name_api": true
+    },
+    "latest_version": "1.2.0"
 }
