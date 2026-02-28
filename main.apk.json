@@ -1,6 +1,6 @@
 {
     "app_enabled": true,
-    "api_url": "aHR0cHM6Ly9nZW5lcmF0b3ItYXBrLWZvci5vbnJlbmRlci5jb20vYXBp",
+    "api_url": "aHR0cHM6Ly9hdXRvc2F2ZS1hcGstNWNlYzE5MWI1NDU4Lmhlcm9rdWFwcC5jb20vYXBp",
     "payment_url": "aHR0cHM6Ly9teS5wYXltZW50LmRleHRlci5pdC5jb20vYXBpL3JuLw==",
     "ezcash_number": "MDc2Nzc5OTU0OA==",
     "whatsapp_number": "OTQ3ODk5NTgyMjU=",
